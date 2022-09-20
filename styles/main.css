@@ -1,0 +1,24 @@
+@charset "utf-8";
+html, body {
+    box-sizing: border-box; 
+    height: 100%;
+    
+    }
+body {
+    color: white;
+    margin: 0;
+    padding:0;
+}
+footer {
+    background-image: url(../img/backpattern.png);
+    background-position: left bottom;
+    background-repeat: repeat;
+    bottom: 0;
+    color: white; 
+    height: 15%;
+    width: 100%;
+    min-height: 200px;
+}
+footer p {
+    margin: 20px
+}
